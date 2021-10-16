@@ -12,8 +12,8 @@
         <description>The SDK required to create plug-ins for Open Live Writer.</description>
         <copyright>(c) .NET  Foundation</copyright>
         <frameworkAssemblies>
-            <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework4.6.1" />
-            <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.6.1" />
+            <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework4.8" />
+            <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.8" />
         </frameworkAssemblies>
     </metadata>
     <files>
