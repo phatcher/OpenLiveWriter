@@ -5,6 +5,7 @@
     <DefineConstants>$(DefineConstants);CODE_ANALYSIS;WIN32</DefineConstants>
     <AssemblyName>OpenLiveWriter.PostEditor</AssemblyName>
     <RootNamespace>OpenLiveWriter.PostEditor</RootNamespace>
+    <OutputType>Library</OutputType>
     <ProjectGuid>{D6C9A393-E0B8-4548-B84B-F8B6FE2A5645}</ProjectGuid>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <NuGetPackageImportStamp>

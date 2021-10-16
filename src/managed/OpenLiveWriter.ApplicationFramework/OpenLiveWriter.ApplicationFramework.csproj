@@ -4,6 +4,7 @@
   <PropertyGroup>
     <AssemblyName>OpenLiveWriter.ApplicationFramework</AssemblyName>
     <RootNamespace>OpenLiveWriter.ApplicationFramework</RootNamespace>
+    <OutputType>Library</OutputType>
     <ProjectGuid>{EEEE653A-90CE-44E2-B40E-22F747880CC0}</ProjectGuid>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile />

@@ -4,6 +4,7 @@
   <PropertyGroup>
     <AssemblyName>OpenLiveWriter.Controls</AssemblyName>
     <RootNamespace>OpenLiveWriter.Controls</RootNamespace>
+    <OutputType>Library</OutputType>
     <ProjectGuid>{D4A39612-3610-458F-83F8-5722D1F51063}</ProjectGuid>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile />

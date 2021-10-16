@@ -5,6 +5,7 @@
     <ProjectGuid>{1F76020F-DBB5-4F43-B530-C85EF9461A61}</ProjectGuid>
     <RootNamespace>BlogRunner.Core</RootNamespace>
     <AssemblyName>BlogRunner.Core</AssemblyName>
+    <OutputType>Library</OutputType>
     <CoverageDisabled>true</CoverageDisabled>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>

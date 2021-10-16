@@ -5,6 +5,7 @@
     <AssemblyName>OpenLiveWriter.SpellChecker</AssemblyName>
     <RootNamespace>OpenLiveWriter.SpellChecker</RootNamespace>
     <ProjectGuid>{2DB3A424-0F1E-44AC-AE01-5454586CE769}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile />
